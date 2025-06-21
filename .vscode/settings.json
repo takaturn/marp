@@ -1,0 +1,14 @@
+{
+    "markdownlint.config": {
+        "default": true,
+        "MD007": { "indent": 4 }
+    },
+    "markdown.marp.browser": "auto",
+    "markdown.marp.themes": [
+        "./css/marp.css",
+        "https://raw.githubusercontent.com/dracula/marp/master/dracula/dracula.css"
+    ],
+    "markdown.marp.exportType": "pptx",
+    "markdown.marp.html": "all",
+    "geminicodeassist.rules": "日本語で回答してください"
+}
